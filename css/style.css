@@ -7,14 +7,12 @@ body{
 
 h1{
   color: white;
-
   font-weight: 700;
 }
 
 p{
   font-family: Poppins;
   color: white;
-
 }
 
 .attribution {
@@ -65,7 +63,6 @@ h1{
   color: white;
   margin: 10px;
 }
-
 
 .terms{
   color:hsl(246, 25%, 77%);
